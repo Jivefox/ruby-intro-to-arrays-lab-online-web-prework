@@ -3,6 +3,6 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  @my_new_array = ['element', 'element1']
+  @my_two_array = ['element', 'element1']
 end
 
